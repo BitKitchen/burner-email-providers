@@ -1,0 +1,7 @@
+{
+	"name": "bit-kitchen/burner-email-providers",
+	"description": "A list of temporary email providers",
+	"type": "library",
+	"keywords": ["burner", "email"],
+	"homepage": "https://github.com/wesbos/burner-email-providers"
+}
