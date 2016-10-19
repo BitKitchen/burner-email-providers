@@ -2,7 +2,7 @@
 all: emails.json emails.php
 
 clean:
-	rm emails.php emails.json
+	rm -f emails.php emails.json
 
 emails.php: emails.txt
 	echo '<?php return ' > emails.php
