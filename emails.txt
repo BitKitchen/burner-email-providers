@@ -555,7 +555,6 @@ spam.la
 spam.su
 spam4.me
 spamail.de
-spamarrest.com
 spamavert.com
 spambob.com
 spambob.net
